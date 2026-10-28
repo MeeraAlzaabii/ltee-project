@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "ltee-project"
+abstract: "A reproducible analysis project for LTEE variant calling"
+type: software
+authors:
+  - given-names: "Meera"
+    family-names: "Alzaabi"
+    email: "Meera.Alzaabi@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0003-8850-5731"
+repository-code: "https://github.com/MeeraAlzaabii/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-26"
