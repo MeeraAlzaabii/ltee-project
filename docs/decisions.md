@@ -1,3 +1,4 @@
 # Decision log
 
-- Variant filter: minimum read depth 5  (Meera - fewer false calls).
+<<<<<<< HEAD
+- Variant filter: minimum read depth 2 (the vcfutils.pl default, as in the Data Carpentry lesson).
