@@ -1,5 +1,5 @@
 # ltee-project
-
+[![DOI](https://zenodo.org/badge/1437194604.svg)](https://doi.org/10.5281/zenodo.24535316)
 A reproducible analysis project for LTEE variant calling
 
 Author: Meera Alzaabi ([ORCID 0009-0003-8850-5731](https://orcid.org/0009-0003-8850-5731))
