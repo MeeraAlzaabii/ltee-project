@@ -11,6 +11,7 @@ authors:
 repository-code: "https://github.com/MeeraAlzaabii/ltee-project"
 license: MIT
 version: 0.1.0
+doi: 10.5281/zenodo.24535317
 date-released: "2026-12-01"
 keywords:
   - reproducibility
